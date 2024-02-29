@@ -1,0 +1,12 @@
+date: 24.02.2023 name: Каток description: Пойти на каток с красивой девочкой в 19:30
+date: 10.04.2023 name: Лекция description: ООП в 12:00
+date: 04.05.2023 name: Экскурсия description: Экскурсия по Третьяковке в 10:00
+date: 18.05.2023 name: Встреча description: Встреча с друзьями в 20:00
+date: 13.04.2023 name: Экзамен description: Экзамен по C++ в 18:00
+date: 24.02.2023 name: Прогулка description: Погулять одному в 23:00 :(
+date: 09.04.2023 name: Пара description: Математический анализ в 10:20
+date: 12.04.2023 name: Встреча description: Встреча с друзьями в 20:00
+date: 15.04.2023 name: Пара description: Дискретная математика в 15:00
+date: 16.04.2023 name: Экзамен description: Экзамен по Java в 19:30
+date: 16.04.2023 name: Пара description: История России в 12:00
+date: 01.05.2023 name: Лекция description: ООП в 15:00
