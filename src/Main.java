@@ -43,7 +43,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        //Я мудак
         try {
             String filename_not_sorted  = "events_not_sorted.txt";
             String filename_sorted = "events_sorted.txt";
